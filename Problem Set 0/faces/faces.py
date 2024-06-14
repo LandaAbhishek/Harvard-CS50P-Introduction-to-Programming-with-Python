@@ -9,4 +9,3 @@ def convert(text):
     return text
 
 main()
-
