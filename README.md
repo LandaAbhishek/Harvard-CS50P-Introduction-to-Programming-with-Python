@@ -3,7 +3,7 @@
 ### These are my solutions for CS50's Introduction to Programming with Python 2024.
 # Final Project: [Monthly Budget Manager](https://youtu.be/COOxfo3kUX0?feature=shared) ⬅️Project Presentation Link
 
-### Successfully completed 41 programming assignments within a 10-week timeframe, alongside a final project, demonstrating proficiency in Python syntax, test code implementation, data structures, and algorithms. This comprehensive understanding has equipped me to develop efficient and scalable software solutions.
+### Successfully completed [41 Programming Assignments [Click Here]](https://github.com/LandaAbhishek/Harvard-CS50P-Introduction-to-Programming-with-Python) within a 10-week timeframe, alongside a final project, demonstrating proficiency in Python syntax, test code implementation, data structures, and algorithms. This comprehensive understanding has equipped me to develop efficient and scalable software solutions.
 
 <br/>
 
